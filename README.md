@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio Rueda</h1>
-<h3 align="center">My Hobby is the programming, I began studying C++, I have developed some projects in Python and sql, currently I am studying the Higher Degree in Multiplatform Applications Development (DAM)</h3>
+<h3 align="left">My Hobby is the programming, I began studying C++, I have developed some projects in Python and sql, currently I am studying the Higher Degree in Multiplatform Applications Development (DAM)</h3>
 
 - 💬 Ask me about **C++ - Python - Sql - Java**
 
